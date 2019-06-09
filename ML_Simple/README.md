@@ -1,7 +1,7 @@
 ## Machine Learning Predictions using Python & Scikit-Learn
 
 ## Linear Regression Example
-basic code for ML predictions, or see [Jupyter Notebook](/simple_ML_LinearRegression.ipynb) example.
+basic code for ML predictions, or see [Jupyter Notebook](/ML_Simple/simple_ML_LinearRegression.ipynb) example.
 ```python
 import pandas as pd
 from sklearn.linear_model import LinearRegression
@@ -17,7 +17,7 @@ predictionsY = lr.predict(X_test)
 ```
 
 ## Logistic Regression Example
-basic code for ML predictions, or see [Jupyter Notebook](/simple_ML_LogisticRegression.ipynb) example.
+basic code for ML predictions, or see [Jupyter Notebook](/ML_Simple/simple_ML_LogisticRegression.ipynb) example.
 ```python
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
